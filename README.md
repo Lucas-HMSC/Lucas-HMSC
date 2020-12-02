@@ -11,11 +11,9 @@ I am an **IT Analyst** at Prime Home Decor, acting mainly as a front end develop
 <a href="mailto:lucashms.carvalho@gmail.com" target="_blank"><img src="https://i.imgur.com/wOdadgd.png" alt="Gmail Badge" /></a>
 
 ### Languages:
-<h3>FrontEnd:</h3>
+<h2>FrontEnd:</h2>
 <img src="https://i.imgur.com/pewfrcI.png" alt="Visual Studio Code" />
-<h3>BackEnd:</h3>
+<h2>BackEnd:</h2>
 <img src="https://i.imgur.com/pewfrcI.png" alt="Visual Studio Code" />
-<br />
-<br />
 
 ### I hope I can contribute with you someday!
