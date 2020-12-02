@@ -13,6 +13,8 @@ I am an **IT Analyst** at Prime Home Decor, acting mainly as a front end develop
 ### Languages:
 #### FrontEnd:
 <img src="https://i.imgur.com/pewfrcI.png" alt="Visual Studio Code" />
+#### BackEnd:
+<img src="https://i.imgur.com/pewfrcI.png" alt="Visual Studio Code" />
 <br />
 <br />
 
