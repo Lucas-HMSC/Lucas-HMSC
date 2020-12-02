@@ -14,9 +14,12 @@ I am an **IT Analyst** at Prime Home Decor, acting mainly as a front end develop
 <h4>FrontEnd:</h4>
 <img align="left" src="https://i.imgur.com/k2DH5I2.png" alt="HTML5" />
 <img align="left" src="https://i.imgur.com/j5bqrw8.png" alt="CSS3" />
+<img align="left" src="https://i.imgur.com/BiyCjYm.png" alt="JavaScript" />
+<img align="left" src="https://i.imgur.com/LUlwcwd.png" alt="jQuery" />
 <br />
 <h4>BackEnd:</h4>
-<img src="https://i.imgur.com/pewfrcI.png" alt="Visual Studio Code" />
+<img align="left" src="https://i.imgur.com/TdJi6JU.png" alt="NodeJS" />
+<br />
 <h3>Tools:</h3>
 <img src="https://i.imgur.com/pewfrcI.png" alt="Visual Studio Code" />
 
