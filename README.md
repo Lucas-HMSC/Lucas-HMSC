@@ -27,5 +27,5 @@ I am an **IT Analyst** at Prime Home Decor, acting mainly as a front end develop
 <img align="left" src="https://i.imgur.com/kDw3hZA.png" alt="Git" />
 <img align="left" src="https://i.imgur.com/UgZzHMe.png" alt="GitHub">
 <img align="left" src="https://i.imgur.com/JVHpCFg.png" alt="Terminal">
-
-### I hope I can contribute with you someday!
+<br />
+<h3>I hope I can contribute with you someday!</h3>
