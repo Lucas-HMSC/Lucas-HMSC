@@ -19,8 +19,13 @@ I am an **IT Analyst** at Prime Home Decor, acting mainly as a front end develop
 <br />
 <h4>BackEnd:</h4>
 <img align="left" src="https://i.imgur.com/TdJi6JU.png" alt="NodeJS" />
+<img align="left" src="https://i.imgur.com/WyrjOGy.png" alt="SQL" />
+<img align="left" src="https://i.imgur.com/NMC5rsH.png" alt="MySQL" />
 <br />
 <h3>Tools:</h3>
-<img src="https://i.imgur.com/pewfrcI.png" alt="Visual Studio Code" />
+<img align="left" src="https://i.imgur.com/pewfrcI.png" alt="Visual Studio Code" />
+<img align="left" src="https://i.imgur.com/kDw3hZA.png" alt="Git" />
+<img align="left" src="https://i.imgur.com/UgZzHMe.png" alt="GitHub">
+<img align="left" src="https://i.imgur.com/JVHpCFg.png" alt="Terminal">
 
 ### I hope I can contribute with you someday!
