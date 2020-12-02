@@ -7,8 +7,8 @@ I'm currently studying the third year of **Computer Science**.
 I am an **IT Analyst** at Prime Home Decor, acting mainly as a front end developer.
 
 ### Connect with me:
-[![Linkedin Badge](https://i.imgur.com/cQZE8C8.png)](https://www.linkedin.com/in/dev-lucas-carvalho/)
-[![Gmail Badge](https://i.imgur.com/wOdadgd.png)](mailto:lucashms.carvalho@gmail.com)
+<a href="https://www.linkedin.com/in/dev-lucas-carvalho/" target="_blank"><img src="https://i.imgur.com/cQZE8C8.png" alt="Linkedin Badge" /></a>
+<a href="mailto:lucashms.carvalho@gmail.com" target="_blank"><img src="https://i.imgur.com/wOdadgd.png" alt="Gmail Badge" /></a>
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
