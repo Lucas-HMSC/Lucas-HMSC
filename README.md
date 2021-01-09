@@ -4,7 +4,7 @@
 
 My name is **Lucas Carvalho**, and I am a developer in development! Studious and dedicated, always looking for new knowledge and new experiences in the technology area.
 
-I'm currently studying the third year of **Computer Science**.
+I'm currently studying the fourth year of **Computer Science**.
 
 I am an **IT Analyst** at Prime Home Decor, acting mainly as a front end developer.
 
