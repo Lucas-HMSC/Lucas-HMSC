@@ -6,7 +6,7 @@ My name is **Lucas Carvalho**, and I am a developer in development! Studious and
 
 I'm currently studying the fourth year of **Computer Science**.
 
-I am an **Fullstack Developer** at Signa, using mainly Vuejs and .NET languages.
+I am a **FullStack Developer** at Signa, using mainly Vuejs and .NET languages.
 
 ### Connect with me:
 <a href="https://t.me/lucas_hmsc" target="_blank"><img src="https://i.imgur.com/qO5kei4.png" alt="Telegram Badge" /></a>
