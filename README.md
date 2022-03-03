@@ -15,3 +15,7 @@ I'm a **FullStack Developer** at Signa, using mainly Vuejs and .NET languages.
 <a href="mailto:lucashms.carvalho@gmail.com" target="_blank"><img src="https://i.imgur.com/wOdadgd.png" alt="Gmail Badge" /></a>
 
 ### I hope I can contribute with you someday!
+<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-HMSC&layout=compact&langs_count=10&theme=omni&card_width=500"/>
+</div>
