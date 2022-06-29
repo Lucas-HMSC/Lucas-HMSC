@@ -6,7 +6,7 @@ My name is **Lucas Carvalho**, and I am a developer in development! Studious and
 
 I currently have a **Bachelor's Degree** in **Computer Science**, and I have specialized in several professional courses in **Web Development**.
 
-I'm a **FullStack Developer** at Signa, using mainly Vuejs and .NET languages.
+I'm a **Front End Developer** at Quero Education, using mainly Vuejs and Nuxtjs.
 
 ### Connect with me:
 <a href="https://t.me/lucas_hmsc" target="_blank"><img src="https://i.imgur.com/qO5kei4.png" alt="Telegram Badge" /></a>
