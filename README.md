@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name is **Lucas Carvalho**, and I am a developer in development! Studious and dedicated, always looking for new knowledge and new experiences in the technology area.
+My name is **Lucas Carvalho**, and I am a developer in constant development! Studious and dedicated, always looking for new knowledge and new experiences in the technology area.
 
 I currently have a **Bachelor's Degree** in **Computer Science**, and I have specialized in several professional courses in **Web Development**.
 
